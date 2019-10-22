@@ -2,3 +2,4 @@ _site/
 _drafts/
 .idea/
 .sass-cache/
+.jekyll-cache/
