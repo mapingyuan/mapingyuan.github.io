@@ -1,1 +1,32 @@
-theme: jekyll-theme-minimal
+# site settings
+
+title: m_pingyuan
+subtitle: Just now or never
+welcome_message: Welcome to my blog
+description: A back-end developer
+author: 
+  name: mpy
+  email: mpy0910@126.com
+  github: mapingyuan
+  weibo: https://weibo.com/p/mapingyuan
+
+# bulid settings
+permalink: /:year/:month/:day/:title/                 #博文固定链接
+paginate: 10                                          #分页时每页博文
+paginate_path: "/page/:num/"
+
+markdown: kramdown
+highlighter: rouge
+auto: true
+cover_color: pink
+
+blog_button:
+  title: Blog
+  description: Visit blog
+
+#social
+social:
+  weibo: mapingyuan
+  github: mapingyuan
+  twitter: mapingyuan
+  mail: mpy0910@126.com
